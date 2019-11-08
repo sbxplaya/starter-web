@@ -5,7 +5,7 @@ adding more wording.
 
 ## Introduction
 
-Sample Text
+This file has additional items that i needed to add.
 
 ## Purpose
 
@@ -23,3 +23,4 @@ Sample Text
 
 1.0
 2.0
+3.0
